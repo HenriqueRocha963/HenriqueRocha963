@@ -1,14 +1,16 @@
-# 👋 Olá, bem-vindo ao meu GitHub!
+#  Bem-vindo ao meu GitHub!
 
-Eu sou [Seu Nome], um desenvolvedor de software com paixão por criar soluções eficientes e escaláveis. Tenho experiência em C# e desenvolvimento backend, mas também estou sempre aberto a explorar novas tecnologias e expandir meus conhecimentos.
+Eu sou Henrique Martins, um desenvolvedor de software com paixão por criar soluções eficientes e escaláveis. Tenho experiência em C# e JavaScript, para desenvolvimento Fullstack, mas também estou sempre aberto a explorar novas tecnologias e expandir meus conhecimentos.
 
 ## 🚀 Minhas Áreas de Interesse
 
 - Desenvolvimento Backend
+- Desenvolvimento Frontend
 - Arquitetura de Software
 - Cloud Computing
 - Integração de APIs
 - Otimização de Performance
+- Análise de Dados
 
 ## 💻 Tecnologias que Eu Utilizo
 
@@ -19,7 +21,7 @@ Eu sou [Seu Nome], um desenvolvedor de software com paixão por criar soluções
 
 ## 🌱 Estou Aprendendo
 
-Atualmente, estou me aprofundando em **microservices** e **design patterns avançados** para melhorar a robustez e escalabilidade dos meus projetos.
+Atualmente, estou me aprofundando em **Javascript** e **React** para melhorar a minha produção de aplicações web.
 
 ## 📈 Estatísticas do GitHub
 
