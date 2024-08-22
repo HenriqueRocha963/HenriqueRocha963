@@ -25,7 +25,7 @@ Atualmente, estou me aprofundando em **Javascript** e **React** para melhorar a 
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=henriquerocha963&show_icons=true&theme=radical)
 
 ## 📫 Como Me Encontrar
 
