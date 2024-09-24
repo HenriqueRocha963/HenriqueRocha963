@@ -17,7 +17,6 @@ Eu sou Henrique Martins, um desenvolvedor de software com paixão por criar solu
 - **Linguagens:** C#, JavaScript, Python
 - **Frameworks:** .NET, ASP.NET Core, Node.js
 - **Bancos de Dados:** SQL Server, MySQL, MongoDB
-- **Ferramentas DevOps:** Docker, Kubernetes, Azure, CI/CD
 
 ## 🌱 Estou Aprendendo
 
